@@ -6,8 +6,8 @@ from functools import reduce
 
 import numpy as np
 
-from .beatcalc import BeatCalc
-from .util import make_onset_feature_context, np_pad
+from beatcalc import BeatCalc
+from util import make_onset_feature_context, np_pad
 
 __metaclass__ = type
 class Chart:
