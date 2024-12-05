@@ -1,0 +1,17 @@
+ddc/infer/tmp
+ddc/infer/__pycache__
+
+ddc/learn/tmp
+ddc/learn/__pycache__
+
+ddc/scripts/*.txt
+
+ddc/*.txt
+ddc/*.7z
+
+ddc/~ddc/*
+new_ddc/*
+
+.venv
+ddc/data
+*.py.bak
